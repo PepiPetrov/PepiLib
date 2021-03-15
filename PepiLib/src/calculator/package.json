@@ -1,0 +1,11 @@
+{
+  "name": "calculator-pp",
+  "version": "2.0.0",
+  "description": "This is a scientific calculator",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PP",
+  "license": "MIT"
+}

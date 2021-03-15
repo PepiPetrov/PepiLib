@@ -1,0 +1,16 @@
+{
+  "name": "my-libs",
+  "version": "2.9.0",
+  "description": "These are my own libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PP",
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {
+    "geographiclib": "^1.51.0",
+    "spacetime": "^6.12.5"
+  }
+}

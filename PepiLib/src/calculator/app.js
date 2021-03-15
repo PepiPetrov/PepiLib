@@ -1,0 +1,16 @@
+const lib=require('./calculator')
+const Calculator=lib.Calculator
+const calculator=new Calculator()
+const NumericSystems=lib.NumericSystems
+const hex=new NumericSystems(1234,16)
+hex.guide()
+console.log(calculator.sum(1,2))
+console.log(calculator.subtract(4,3))
+console.log(calculator.multiply(2,3))
+console.log(calculator.divide(10,2))
+console.log(calculator.pow(2,3))
+console.log(calculator.cos(-12))
+console.log(calculator.sin(23))
+console.log(calculator.tan(24))
+console.log(calculator.factoriel(3))
+console.log(calculator.nthroot(-27,3))

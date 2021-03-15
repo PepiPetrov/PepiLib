@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@danilosampaio/numbers": "^1.0.2",
+    "@rayyamhk/complex": "^1.0.12",
+    "algebra.js": "^0.2.6",
+    "calculy": "^3.1.1",
+    "ella-math": "^0.4.5",
+    "equationjs": "^0.0.21",
+    "improved-math": "^1.0.7",
+    "math-pkg-cmplx": "^1.2.2"
+  },
+  "main": "index.js"
+}
